@@ -1,7 +1,7 @@
 <?php
 require_once 'includes/config.php';
 Auth::requireLogin();
-
+ 
 // Fetch current settings
 $sql = "SELECT * FROM settings";
 $result = $conn->query($sql);
