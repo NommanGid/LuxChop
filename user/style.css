@@ -830,7 +830,7 @@ body {
     background: rgba(0,0,0,0.7);
 }
 
-[data-theme="dark"] .nav-menu {
+[data-theme="dark"] .nav-menu{
     background: var(--card-bg);
 }
 
